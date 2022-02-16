@@ -1,7 +1,7 @@
 ### Ayy 🥴
 
 - ``AuteMuteUs`` の日本語翻訳をしていました。現在は ``AuteMuteUs Premium`` の登場で萎えてしまい翻訳を中断しています。
-  - そのほかにも、結構乱雑かつ適当に HTML で Webサイト を作ってたりします。よければ見てね。
+  - 最近ではPAYDAY 2のMod「[Meth Helper Updated](https://modworkshop.net/mod/25950)」の日本語化などもしています。
 
 東京都生まれの初心者コーダーです。よろしくお願いします。
 
