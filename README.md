@@ -8,7 +8,8 @@
 協力型FPS/TPSゲーム(e.g. PAYDAY2, GTAV)やMMORPG(ソウルワーカー, 原神)等が好きです。  
 オフラインのみのゲームは基本的に好きじゃないです。
 
-JavaScriptやPython、Rubyがほんのちょっとだけ書けます。RustやGoはそのうちやります。
+JavaScriptやPython、Rubyがほんのちょっとだけ書けます。RustやGoはそのうちやります。  
+[ぼくのうんちリポジトリです。](https://github.com/Assault-8448/memo)よければどうぞ。
 
 音MAD作成(音声のみ)が最も得意です。一部合作に合作内合作の音声担当として出ていたりもします。
 
