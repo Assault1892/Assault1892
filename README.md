@@ -56,3 +56,14 @@ ___
   - Editor: Visual Studio Code
   - Audio:  REAPER, VocalShifter, WaveTone
   - Video:  Aviutl, Adobe Premiere Pro, Adobe After Effects
+
+## Links
+- SNS
+  - [Twitter](https://twitter.com/SzlyNe_)
+  - [YouTube](https://www.youtube.com/channel/UC2_oHHOyt4-eFFea-2s8k5g)
+  - [VRChat](https://vrchat.com/home/user/usr_9dec4a38-a8e0-4b70-bd26-613c5d2ca9cf)
+  - [Speedrun.com](https://www.speedrun.com/user/Assault1892) | 実は `Car Shop: Any Difficulty Solo - Any%` で世界43位を取っています。
+- Game
+  - [Steam](https://steamcommunity.com/id/assault9807/)
+  - Ubisoft Connect: `Assault.1892`
+  - Nintendo Switch: `SW-3107-8528-0121`
