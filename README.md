@@ -1,7 +1,6 @@
 # Ayy 🥴
 
-- ``AuteMuteUs`` の日本語翻訳をしていました。現在は ``AuteMuteUs Premium`` の登場で萎えてしまい翻訳を中断しています。  
-  現在は別の方が日本語化してくださってるのでしょうか？
+- ``AuteMuteUs`` の日本語翻訳をしていました。現在は ``AuteMuteUs Premium`` の実装でやる気を削がれ翻訳を辞めました。  
   - 最近はPAYDAY 2のMod「[Meth Helper Updated](https://modworkshop.net/mod/25950)」「[Better Assault Indicator](https://modworkshop.net/mod/22712)」の日本語化をしました。
 
 東京都在住の初心者コーダーです。よろしくお願いします。~~最近はコーダーらしい事一切してません。~~
