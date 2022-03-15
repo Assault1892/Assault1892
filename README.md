@@ -1,6 +1,6 @@
 # Ayy 🥴
 
-- ``AuteMuteUs`` の日本語翻訳をしていました。現在は ``AuteMuteUs Premium`` の実装でやる気を削がれ翻訳を辞めました。  
+- ``AuteMuteUs`` の日本語翻訳をしていましたが、``AuteMuteUs Premium`` の実装でやる気を削がれ翻訳を辞めました。  
   - 最近はPAYDAY 2のMod「[Meth Helper Updated](https://modworkshop.net/mod/25950)」「[Better Assault Indicator](https://modworkshop.net/mod/22712)」の日本語化をしました。
 
 東京都在住の初心者コーダーです。よろしくお願いします。~~最近はコーダーらしい事一切してません。~~
@@ -59,6 +59,7 @@ ___
 
 ## Links
 - SNS
+  - Discord: `Assault#1892`
   - [Twitter](https://twitter.com/SzlyNe_)
   - [YouTube](https://www.youtube.com/channel/UC2_oHHOyt4-eFFea-2s8k5g)
   - [VRChat](https://vrchat.com/home/user/usr_9dec4a38-a8e0-4b70-bd26-613c5d2ca9cf)
