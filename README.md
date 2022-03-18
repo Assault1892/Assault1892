@@ -36,8 +36,8 @@ ___
 
 ### GitHub Stats Card
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Assault-8448)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Assault-8448)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Assault1892)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Assault1892)
 
 ## 環境
 - PC: G-Tune E5-D (販売終了)
