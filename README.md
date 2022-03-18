@@ -32,7 +32,7 @@ ___
 ___
 
 音MAD作成(音声のみ)が最も得意です。一部合作に合作内合作の音声担当として出ていたりもします。  
-[僕のメモ用リポジトリです。](https://github.com/Assault-8448/memo)よければどうぞ。
+[僕のWebサイトです。](https://assault1892.github.io)よければどうぞ。
 
 ### GitHub Stats Card
 
