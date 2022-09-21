@@ -1,12 +1,12 @@
-# Ayy 🥴
+# Hi there 🥴
 
 📚 **日本語** (Primary speak language), **English** (a little)  
-💻 **JavaScript**, **Python**, **README.md** がちょっとだけ書けます。README.mdを書く仕事に就きたい。  
-🎮 **Escape from Tarkov**, **Rainbow Six: Siege**, **VRChat** が好きです。
+💻 **JavaScript**, **Python** がちょっとだけ書けます。README.mdを書くのが得意。  
+🎮 **Grand Theft Auto Online**, **Rainbow Six Siege**, **VRChat** を主に遊んでいます。
 
 ---
 
-🏆 PAYDAY 2 向けMod **[Better Assault Indicator](https://modworkshop.net/mod/22712)**, **[Extra Heist Info](https://modworkshop.net/mod/31915)** の日本語化をしています。  
+🏆 PAYDAY 2 向けMod **[Better Assault Indicator](https://modworkshop.net/mod/22712)**, **[Extra Heist Info](https://modworkshop.net/mod/31915)** の日本語化をしています。   
 🤔 ゲーム本体及びModのアップデートに追い付けていないため，「**ここ翻訳できとらんぞ**」等があったら**TwitterのDMの方に**お願いします。
 
 ---
