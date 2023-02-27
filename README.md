@@ -9,6 +9,8 @@
 🏆 PAYDAY 2 向けMod **[Better Assault Indicator](https://modworkshop.net/mod/22712)**, **[Extra Heist Info](https://modworkshop.net/mod/31915)** の日本語化をしています。   
 🤔 ゲーム本体及びModのアップデートに追い付けていないため，「**ここ翻訳できとらんぞ**」等があったら**TwitterのDMの方に**お願いします。
 
+❤ [Misskey.art](https://misskey.art) の管理者をしています。
+
 ---
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Assault1892)
