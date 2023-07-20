@@ -25,3 +25,21 @@
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Assault1892)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Assault1892)
+
+<!--
+
+🐓　　🐓　　🐓
+　　＼＼　l l　　//
+🐓＝ CHIRITORI ＝ 🐓
+　　 //　　l l　　＼＼
+　 🐓　　🐓　　　🐓
+
+🐓🐓🐓🐓🐓🐓
+NOT CHIRITORI
+🐓🐓🐓🐓🐓🐓
+
+🐓CHIRITORI WAS FORCED TO FIGHT A LONELY BATTLE AND WENT TO THE BATTLEFIELD
+
+🍗AND THIS IS A CHICKEN
+
+-->
