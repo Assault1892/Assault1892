@@ -23,8 +23,14 @@
 - [Offyerrocker/Meth Helper Updated](https://modworkshop.net/mod/25950)
 - [vrcx-team/VRCX](https://github.com/vrcx-team/VRCX)
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Assault1892)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Assault1892)
+## GitHub Profile にぎやかし
+
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Assault1892&theme=dracula&column=-1&no-frame=true)
+
+<p align="left"> 
+  <img alt="Top Langs" height="175px" src="https://github-readme-stats.vercel.app/api?username=Assault1892&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img alt="github stats" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assault1892&layout=compact&theme=dracula" />
+</p>
 
 <!--
 
