@@ -5,6 +5,9 @@
 🎮 **BLUE PROTOCOL**, **Rainbow Six Siege**, **VRChat** を主に遊んでいます。  
 ❤ [MiColor.link](https://micolor.link) の管理者をしています。
 
+好き: 人と話すこと、文字を書くこと  
+嫌い: 人と争うこと、数学
+
 ## 関わっているプロジェクト (Contributed Projects)
 
 ### README作成/編集 (Create/Edit README)
