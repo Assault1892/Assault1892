@@ -4,7 +4,7 @@
 💻 **JavaScript**, **Python** がちょっとだけ書けます。README.mdを書くのが得意。  
 🎮 **BLUE PROTOCOL**, **崩壊: スターレイル**, **Rainbow Six Siege**, **VRChat** を主に遊んでいます。  
 ❤ [MiColor.link](https://micolor.link) の管理者をしています。  
-🏫 [学校法人角川ドワンゴ学園 N高等学校 6期生](https://nnn.ed.jp/high_school_feature/n_high_school/)
+🏫 [学校法人角川ドワンゴ学園 N高等学校 6期生](https://nnn.ed.jp/high_school_feature/n_high_school/) (在籍中 2024/03/31卒業予定)
 
 好き: 人と話すこと、文字を書くこと  
 嫌い: 人と争うこと、数学
