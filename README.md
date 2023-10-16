@@ -11,6 +11,9 @@
 
 ## 関わっているプロジェクト (Contributed Projects)
 
+### 開発した (Developed by me)
+- [Assault1892/discord-replace-twitter-link](https://github.com/Assault1892/discord-replace-twitter-link)
+
 ### README作成/編集 (Create/Edit README)
 
 - [Assault1892/EAC-Image-Swapper-bat](https://github.com/Assault1892/EAC-Image-Swapper-bat)
