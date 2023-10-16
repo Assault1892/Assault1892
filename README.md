@@ -11,7 +11,7 @@
 
 ## 関わっているプロジェクト (Contributed Projects)
 
-### 開発した (Developed by me)
+### 開発 (Developed by me)
 - [Assault1892/discord-replace-twitter-link](https://github.com/Assault1892/discord-replace-twitter-link)
 
 ### README作成/編集 (Create/Edit README)
