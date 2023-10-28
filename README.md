@@ -2,7 +2,7 @@
 
 📚 **日本語** (Primary speak language), **English** (a little)  
 💻 **JavaScript**, **Python** がちょっとだけ書けます。README.mdを書くのが得意。  
-🎮 **BLUE PROTOCOL**, **崩壊: スターレイル**, **Rainbow Six Siege**, **VRChat** を主に遊んでいます。  
+🎮 **BLUE PROTOCOL**, **VRChat** を主に遊んでいます。最近は **Resonite** にも興味あり。  
 🏫 [学校法人角川ドワンゴ学園 N高等学校 6期生](https://nnn.ed.jp/high_school_feature/n_high_school/) (在籍中 2024/03/31卒業予定)  
 ❌ Type 'Assault' is not assignable to type 'Social'.
 
