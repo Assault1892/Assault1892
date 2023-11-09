@@ -24,8 +24,8 @@
 </div>
 
 <div>
-  <p align="center">❤ 人と話すこと、文字を書くこと<br>
-    🖤 人と争うこと、数学</p>
+  <p align="center">❤ 人と話すこと、プログラムを書くこと、ゲームをすること<br>
+    🖤 人と争うこと、数学、考え事、夜</p>
 </div>
 
 <h2 align="center">関わっているプロジェクト (Contributed Projects)</h2>
