@@ -47,7 +47,8 @@
     <a href="https://github.com/Zel9278/Cloudflare-IP-Address-Changer">Zel9278/Cloudflare-IP-Address-Changer</a> : CloudflareのIPv4アドレスを自動変更するツールです。<br>
     <a href="https://github.com/Zel9278/DDNS-Now-IP-Address-Changer">Zel9278/DDNS-Now-IP-Address-Changer</a> : DDNS NowのIPv4アドレスを自動変更するツールです。<br>
     <a href="https://github.com/kazukazu123123/pcsc-rs">kazukazu123123/pcsc-rs</a> : PCの状態を取得し専用Webサービスに送信するツールです。<br>
-    <a href="https://github.com/Zel9278/steam-now-playing">Zel9278/Steam Now Playing For Misskey</a> : Steamゲームの起動/終了をMisskeyに自動投稿するツールです。
+    <a href="https://github.com/Zel9278/steam-now-playing">Zel9278/Steam Now Playing For Misskey</a> : Steamゲームの起動/終了をMisskeyに自動投稿するツールです。<br>
+    <a href="https://github.com/Zel9278/VRChat-PC-Status-to-OSC-Chat">Zel9278/PC Status to OSC VRChat Chatbox</a> : pcsc-rsの情報をVRChatのチャットボックスに送信するツールです。
   </p>
 </p>
 
