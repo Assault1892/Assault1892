@@ -28,6 +28,11 @@
     🖤 人と争うこと、数学、考え事、低気圧、低気温</p>
 </div>
 
+<div>
+  <p align="center">低血糖・低血圧に悩まされている趣味コード書きです。志望はフロントエンドエンジニア。<br>
+  READMEを書くときに困ったらいつでも呼んでください。仕様書さえあれば多分大体なんでも書けます。</p>
+</div>
+
 <h2 align="center">関わっているプロジェクト (Contributed Projects)</h2>
 
 <h3 align="center">開発 (Developed by me)</h3>
