@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Assault1892&color=red&style=for-the-badge">
-  <img src="https://img.shields.io/badge/age-17-green?style=for-the-badge" alt="age 17">
+  <img src="https://img.shields.io/badge/age-18-green?style=for-the-badge" alt="age 18">
   <a href="https://twitter.com/SzlyNe_"><img src="https://img.shields.io/badge/twitter-%40SzlyNe__-blue?style=for-the-badge" alt="twitter (at) SzlyNe_"></a>
 </p>
 
