@@ -39,7 +39,8 @@
 
 <p>
   <p align="center">
-    <a href="https://github.com/Assault1892/discord-replace-twitter-link">Assault1892/discord-replace-twitter-link</a> : Twitterのリンクを自動的に置き換えるDiscord Botです。
+    <a href="https://github.com/Assault1892/discord-replace-twitter-link">Assault1892/discord-replace-twitter-link</a> : Twitterのリンクを自動的に置き換えるDiscord Botです。<br>
+    <a href="https://github.com/j-eoeo/discord-sd-bot">j-eoeo/discord-sd-bot</a> : Stable Diffusion WebUIを操作するDiscord Botです。
   </p>
 </p>
 
@@ -48,10 +49,10 @@
 <p>
   <p align="center">
     <a href="https://github.com/Assault1892/EAC-Image-Swapper-bat">Assault1892/EAC-Image-Swapper-bat</a> : EACのスプラッシュ画像を差し替えるbatファイルです。<br>
-    <a href="https://github.com/kazukazu123123/pow">kazukazu123123/pow</a> : VoiceText Web APIを使用するDiscord 読み上げBotです。<br>
+    <a href="https://github.com/j-eoeo/pow">j-eoeo/pow</a> : VoiceText Web APIを使用するDiscord 読み上げBotです。<br>
     <a href="https://github.com/Zel9278/Cloudflare-IP-Address-Changer">Zel9278/Cloudflare-IP-Address-Changer</a> : CloudflareのIPv4アドレスを自動変更するツールです。<br>
     <a href="https://github.com/Zel9278/DDNS-Now-IP-Address-Changer">Zel9278/DDNS-Now-IP-Address-Changer</a> : DDNS NowのIPv4アドレスを自動変更するツールです。<br>
-    <a href="https://github.com/kazukazu123123/pcsc-rs">kazukazu123123/pcsc-rs</a> : PCの状態を取得し専用Webサービスに送信するツールです。<br>
+    <a href="https://github.com/j-eoeo/pcsc-rs">j-eoeo/pcsc-rs</a> : PCの状態を取得し専用Webサービスに送信するツールです。<br>
     <a href="https://github.com/Zel9278/steam-now-playing">Zel9278/Steam Now Playing For Misskey</a> : Steamゲームの起動/終了をMisskeyに自動投稿するツールです。<br>
     <a href="https://github.com/Zel9278/VRChat-PC-Status-to-OSC-Chat">Zel9278/PC Status to OSC VRChat Chatbox</a> : pcsc-rsの情報をVRChatのチャットボックスに送信するツールです。
   </p>
