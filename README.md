@@ -19,7 +19,6 @@
   <p align="center">📚 <b>日本語</b> (Primary speak language), <b>English</b> (a little)<br>
   💻 <b>JavaScript</b>, <b>Python</b> がちょっとだけ書けます。README.mdを書くのが得意。<br>
   🎮 <b>BLUE PROTOCOL</b>, <b>VRChat</b> を主に遊んでいます。最近は <b>Resonite</b> にも興味あり。<br>
-  🏫 <a href="https://nnn.ed.jp/high_school_feature/n_high_school/">学校法人角川ドワンゴ学園 N高等学校 6期生</a> (在籍中 2024/03/31卒業予定)<br>
   ❌ Type 'Assault' is not assignable to type 'Social'.</p>
 </div>
 
