@@ -16,14 +16,14 @@
 </p>
 
 <div>
-  <p align="center">📚 <b>日本語</b> (Primary speak language), <b>English</b> (a little)<br>
-  💻 <b>JavaScript</b>, <b>Python</b> がちょっとだけ書けます。README.mdを書くのが得意。<br>
-  🎮 <b>BLUE PROTOCOL</b>, <b>VRChat</b> を主に遊んでいます。最近は <b>Resonite</b> にも興味あり。<br>
-  ❌ Type 'Assault' is not assignable to type 'Social'.</p>
+  <p align="center">📚 <b>日本語</b> (第一言語), <b>English</b> (a little)<br>
+  💻 <b>JavaScript</b>, <b>Python</b> がちょっとだけ書けます。README.mdを書くのが得意。C#とRustに興味あり。<br>
+  🎮 <b>VRChat</b> と <b>Escape from Tarkov</b> を主に遊んでいます。<br>
+  ❌ <b>Type 'Assault' is not assignable to type 'Social'.</b></p>
 </div>
 
 <div>
-  <p align="center">❤ 人と話すこと、プログラムを書くこと、ゲームをすること、程々に温かい気候<br>
+  <p align="center">❤ 人と話すこと、プログラムを書くこと、ゲームをすること<br>
     🖤 人と争うこと、数学、考え事、低気圧、低気温</p>
 </div>
 
