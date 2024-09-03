@@ -40,7 +40,7 @@
 <p>
   <p align="center">
     <a href="https://github.com/Assault1892/discord-replace-twitter-link">Assault1892/discord-replace-twitter-link</a> : Twitterのリンクを自動的に置き換えるDiscord Botです。<br>
-    <a href="https://github.com/j-eoeo/discord-sd-bot">j-eoeo/discord-sd-bot</a> : Stable Diffusion WebUIを操作するDiscord Botです。
+    <!-- <a href="https://github.com/j-eoeo/discord-sd-bot">j-eoeo/discord-sd-bot</a> : Stable Diffusion WebUIを操作するDiscord Botです。 | AIに興味がなくなったのでコメントアウト -->
   </p>
 </p>
 
