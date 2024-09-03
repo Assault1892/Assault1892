@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=Assault1892&color=red&style=for-the-badge">
   <img src="https://img.shields.io/badge/age-18-green?style=for-the-badge" alt="age 18">
   <a href="https://twitter.com/SzlyNe_"><img src="https://img.shields.io/badge/twitter-%40SzlyNe__-blue?style=for-the-badge" alt="twitter (at) SzlyNe_"></a>
-  <a href="https://vrchat.com/home/user/usr_9dec4a38-a8e0-4b70-bd26-613c5d2ca9cf"><img src="https://img.shields.io/badge/VRChat-%E3%81%82%E3%81%95%E3%82%8B%E3%81%A8-blue?style=for-the-badge&labelColor=gray" alt="VRChat あさると"></a>
+  <a href="https://vrchat.com/home/user/usr_9dec4a38-a8e0-4b70-bd26-613c5d2ca9cf"><img src="https://img.shields.io/badge/VRChat-%E3%81%82%E3%81%95%E3%82%8B%E3%81%A8-blue?style=for-the-badge&labelColor=gray&color=white" alt="VRChat あさると"></a>
 </p>
 
 <h2 align="center">About me</h2>
