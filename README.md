@@ -19,7 +19,7 @@
 <div>
   <p align="center">📚 <b>日本語</b> (第一言語), <b>English</b> (a little)<br>
   💻 <b>JavaScript</b>, <b>Python</b> がちょっとだけ書けます。README.mdを書くのが得意。C#とRustに興味あり。<br>
-  🎮 <b>VRChat</b> と <b>Escape from Tarkov</b> を主に遊んでいます。<br>
+  🎮 <b>VRChat</b> と <b>Escape from Tarkov</b> (PvE) を主に遊んでいます。<br>
   ❌ <b>Type 'Assault' is not assignable to type 'Social'.</b></p>
 </div>
 
