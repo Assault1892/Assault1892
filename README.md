@@ -9,16 +9,17 @@
 
 <h2 align="center">About me</h2>
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Assault1892&theme=dracula&column=-1&no-frame=true)
-
+<!--
 <p align="center"> 
+  ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Assault1892&theme=dracula&column=-1&no-frame=true)
   <img alt="Top Langs" height="175px" src="https://github-readme-stats.vercel.app/api?username=Assault1892&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" />
   <img alt="github stats" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assault1892&layout=compact&theme=dracula" />
 </p>
+-->
 
 <div>
   <p align="center">📚 <b>日本語</b> (第一言語), <b>English</b> (a little)<br>
-  💻 <b>JavaScript</b>, <b>Python</b> がちょっとだけ書けます。README.mdを書くのが得意。C#とRustに興味あり。<br>
+  💻 <b>JavaScript</b>, <b>Python</b> がちょっとだけ書けます。README.mdを書くのが得意。C#に興味あり。<br>
   🎮 <b>VRChat</b> と <b>Escape from Tarkov</b> (PvE) を主に遊んでいます。<br>
   ❌ <b>Type 'Assault' is not assignable to type 'Social'.</b></p>
 </div>
@@ -29,7 +30,7 @@
 </div>
 
 <div>
-  <p align="center">趣味ゲーマーです。時折コードを書く。<br>
+  <p align="center">趣味ゲーマーです。PythonとJavaScriptが書けます。<br>
   READMEを書くときに困ったらいつでも呼んでください。仕様書さえあれば多分大体なんでも書けます。</p>
 </div>
 
